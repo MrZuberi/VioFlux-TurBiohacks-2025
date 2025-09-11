@@ -2,10 +2,13 @@
 
 Interactive, self-contained web app that models epigenetic tuning on the **violacein** pathway (VioA–E). Built with React frontend and Python Flask backend, providing real-time simulation of gene expression modifications and their effects on biosynthetic yield.
 
-## Demo & Project Links
 
 ## 🏆 Won 1st Place TurbioHacks Hackathon 2025
 **[View on DevPost](https://devpost.com/software/vioflux)** -- 
+
+
+## Demo & Project Links
+
 
 ### Demo Video
 
