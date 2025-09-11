@@ -4,7 +4,7 @@ Interactive, self-contained web app that models epigenetic tuning on the **viola
 
 
 ## 🏆 Won 1st Place TurbioHacks Hackathon 2025
-**[View on DevPost](https://devpost.com/software/vioflux)** -- 
+**[View on DevPost](https://devpost.com/software/vioflux)**
 
 
 ## Demo & Project Links
