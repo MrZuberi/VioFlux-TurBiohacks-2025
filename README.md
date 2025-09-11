@@ -171,7 +171,7 @@ The simulation implements:
 
 ---
 
-### 🔗 Original Repository that we worked in
+### 🔗 Original Repository that we worked in:
 This project is a fork of [VioFlux](https://github.com/aalxi/VioFlux)
 
 
