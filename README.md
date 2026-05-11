@@ -1,4 +1,4 @@
-# VioFlux — Epigenetic Tuning Simulator (Violacein)
+# VioFlux: Epigenetic Tuning Simulator (Violacein)
 
 Interactive, self-contained web app that models epigenetic tuning on the **violacein** pathway (VioA–E). Built with React frontend and Python Flask backend, providing real-time simulation of gene expression modifications and their effects on biosynthetic yield.
 
