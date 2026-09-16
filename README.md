@@ -166,8 +166,8 @@ The simulation implements:
 
 ## Credits
 
-- **Backend/Mathematical modeling** - Alexei Manuel
-- **Frontend/UI and Backend integration** - Taha Zuberi
+- Taha Zuberi
+- Alexei Manuel
 
 ---
 
